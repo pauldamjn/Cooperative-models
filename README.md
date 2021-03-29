@@ -7,7 +7,7 @@ Microorganisms produce and secrete materials which are beneficial for themselves
 
 # Getting started
 
-First make sure you have installed the Statistics and Machine Learning Toolbox on Matlab. 
+First make sure you have installed Communications Toolbox and Statistics and Machine Learning Toolbox apps in Matlab. 
 
 # Initial conditions
 
