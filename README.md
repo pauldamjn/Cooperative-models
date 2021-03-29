@@ -11,11 +11,13 @@ First make sure you have installed the Statistics and Machine Learning Toolbox o
 
 # Initial conditions
 
-Define lambda to evaluate different levels of genetic mixing. You can also change the number of subpolations in the and the number of cycles (n) in the 
+Define lambda to evaluate different levels of genetic mixing. You can also change the number of subpolations in the Creating subpopulations section and the number of cycles (n) in the Structured population cycle.
 
 # Running the model
 Make sure to save your data with a proper name. Then run the model.
 
 # Wolfram Mathematica models
+
+
 
 
