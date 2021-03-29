@@ -9,3 +9,4 @@ Getting started
 First make sure you have installed the Statistics and Machine Learning Toolbox on Matlab. 
 
 Every model is 
+hg
