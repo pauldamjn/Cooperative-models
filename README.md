@@ -18,6 +18,7 @@ Make sure to save your data with a correct file name. Then run the model.
 
 # Wolfram Mathematica models
 
+These models creates bifurcation diagrams for 1 trait and 2 traits models. 
 
 
 
