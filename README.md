@@ -11,14 +11,14 @@ First make sure you have installed Communications Toolbox and Statistics and Mac
 
 # Initial conditions
 
-Define lambda to evaluate different levels of genetic mixing. You can also change the number of subpolations in the Creating subpopulations section and the number of cycles (n) in the Structured population cycle.
+Define lambda to evaluate different levels of genetic mixing. You can also change the number of subpopulations in the Creating subpopulations section and the number of cycles (n) in the Structured population cycle.
 
 # Running the model
-Make sure to save your data with a correct file name. Then run the model.
+Make sure to save your data with the correct file name. Then run the model.
 
 # Wolfram Mathematica models
 
-These models creates bifurcation diagrams from 1 trait and 2 traits models. 
+These models create bifurcation diagrams from 1 trait and 2 traits models. 
 Run the code in the Wolfram notebook to generate the diagrams. The data comes from simulations done with Matlab models. 
 
 
