@@ -18,7 +18,8 @@ Make sure to save your data with a correct file name. Then run the model.
 
 # Wolfram Mathematica models
 
-These models creates bifurcation diagrams for 1 trait and 2 traits models. 
+These models creates bifurcation diagrams from 1 trait and 2 traits models. 
+Run the code in the Wolfram notebook to generate the diagrams. The data comes from simulations done with Matlab models. 
 
 
 
